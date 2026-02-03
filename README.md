@@ -19,12 +19,6 @@ Senior Platform/Cloud Engineer with 20 years in IT and 8+ years building cloud i
 - **SRE & Operations** — Reliability, observability, incident response
 - **Cost Optimization** — FinOps, resource rightsizing, spend analysis
 
-### Currently Exploring
-
-- AI/ML and LLMs
-- Rust and eBPF
-- Security automation
-
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-prabarshchuk)
